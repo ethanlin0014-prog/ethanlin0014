@@ -3,5 +3,15 @@ header{
   text-align:center;
 }
 body{
-  background-color:lightblue;
+  background-color:#99CCFF;
+}
+nav{
+    padding: 10px;
+    display: inline-block;
+    font-family: Arial;
+    background-color:#66CCFF;
+  
+}
+footer{
+   text-align:center;
 }
