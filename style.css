@@ -1,10 +1,10 @@
 header{
   color:white;
   text-align:center;
-   background-color:#00b4d8;
+   background-color:#023e8a;
 }
 body{
-  background-color:#ade8f4;
+  background-color:#99CCFF;
 }
 .slogan{
    text-align:center;
@@ -29,6 +29,6 @@ nav a:hover{
 footer{
   padding: 10px;
    text-align:center;
-  background-color: #023e8a;
+  background-color: #0096c7;
   color:white;
 }
