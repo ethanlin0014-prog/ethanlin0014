@@ -18,10 +18,8 @@ nav{
     text-align:center;
     font-family:微軟正黑體;
      padding: 10px;
-    
     background-color:#6699CC;
-  
-  
+    color: white; 
 }
 nav a:hover{
     background-color: #CCFFFF;
