@@ -15,14 +15,15 @@ body{
   
 }
 nav{
-    padding: 10px;
+    padding: 20px 25px;
     display: inline-block;
     font-family: Arial;
     background-color:#66CCFF;
     text-align:center;
+  
 }
 nav a:hover{
-    background-color: #cda8b8;
+    background-color: #CCFFFF;
     color: white;
 }
 footer{
