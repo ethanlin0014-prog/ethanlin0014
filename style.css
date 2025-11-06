@@ -5,6 +5,15 @@ header{
 body{
   background-color:#99CCFF;
 }
+.slogan{
+   text-align:center;
+  text-decoration:underline;
+   font-weight:bold;
+  font-style:italic;
+   font-family:微軟正黑體;
+  
+  
+}
 nav{
     padding: 10px;
     display: inline-block;
