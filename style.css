@@ -15,11 +15,12 @@ body{
   
 }
 nav{
+    text-align:center;
+    font-family:微軟正黑體;
     padding: 15px ;
     display: inline-block;
-    font-family: Arial;
-    background-color:#66CCFF;
-    text-align:center;
+    background-color:#6699CC;
+  
   
 }
 nav a:hover{
@@ -32,8 +33,3 @@ footer{
   background-color: #6699CC;
   color:white;
 }
-
-    
-  
-    color:#444444
-    
