@@ -1,7 +1,7 @@
 header{
   color:white;
   text-align:center;
-   background-color:#023e8a;
+   background-color:#0077b6;
 }
 body{
   background-color:#99CCFF;
@@ -13,7 +13,10 @@ body{
   font-style:italic;
    font-family:微軟正黑體;  
 }
-
+.title{
+   text-align:center;
+  font-family:微軟正黑體; 
+}
 nav{
     text-align:center;
     font-family:微軟正黑體;
@@ -25,9 +28,7 @@ nav a:hover{
     background-color:#0099CC;
     color: white;
 }
-article{
-  background-color:#48cae4;
-}
+
 footer{
   padding: 10px;
    text-align:center;
