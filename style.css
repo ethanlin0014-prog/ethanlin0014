@@ -20,7 +20,10 @@ nav{
     font-family: Arial;
     background-color:#66CCFF;
     text-align:center;
-  
+}
+nav a:hover{
+    background-color: #cda8b8;
+    color: white;
 }
 footer{
    text-align:center;
