@@ -1,9 +1,10 @@
 header{
-  color:green;
+  color:white;
   text-align:center;
+   background-color:#00b4d8;
 }
 body{
-  background-color:#99CCFF;
+  background-color:#ade8f4;
 }
 .slogan{
    text-align:center;
@@ -18,7 +19,7 @@ nav{
     text-align:center;
     font-family:微軟正黑體;
      padding: 10px;
-    background-color:#6699CC;
+    background-color:#0096c7;
     color: white; 
 }
 nav a:hover{
@@ -28,6 +29,6 @@ nav a:hover{
 footer{
   padding: 10px;
    text-align:center;
-  background-color: #6699CC;
+  background-color: #023e8a;
   color:white;
 }
