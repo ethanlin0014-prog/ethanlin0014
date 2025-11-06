@@ -11,10 +11,9 @@ body{
   text-decoration:underline;
    font-weight:bold;
   font-style:italic;
-   font-family:微軟正黑體;
-  
-  
+   font-family:微軟正黑體;  
 }
+
 nav{
     text-align:center;
     font-family:微軟正黑體;
@@ -25,6 +24,9 @@ nav{
 nav a:hover{
     background-color:#0099CC;
     color: white;
+}
+article{
+  background-color:#48cae4;
 }
 footer{
   padding: 10px;
