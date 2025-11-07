@@ -1,7 +1,8 @@
 header{
   color:white;
   text-align:center;
-   background-color:#0077b6;
+  background-color:#0077b6;
+  border-radius: 20px;
 }
 body{
   background-color: #9fccfa;
@@ -35,6 +36,12 @@ nav a:hover{
 }
 article{
   background-color: white;
+}
+.card{
+  padding: 25px;
+    margin: 15px 10px;
+    background-size: cover;
+    border-radius: 20px;
 }
 
 footer{
