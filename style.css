@@ -4,7 +4,12 @@ header{
    background-color:#0077b6;
 }
 body{
-  background-color:#99CCFF;
+  background-color: white;
+}
+.inform{
+  text-align:right;
+  font-weight:bold;
+  font-family:微軟正黑體;
 }
 .slogan{
    text-align:center;
