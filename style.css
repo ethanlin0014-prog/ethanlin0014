@@ -4,7 +4,7 @@ header{
    background-color:#0077b6;
 }
 body{
-  background-color: white;
+  background-color: #9fccfa;
 }
 .inform{
   text-align:right;
@@ -32,6 +32,9 @@ nav{
 nav a:hover{
     background-color:#0099CC;
     color: white;
+}
+article{
+  background-color: white;
 }
 
 footer{
