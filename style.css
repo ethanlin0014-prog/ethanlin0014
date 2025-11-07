@@ -21,13 +21,13 @@ body{
 }
 .title{
    text-align:center;
-  font-size:40pt:
+  font-size:28px:
   font-family:微軟正黑體; 
 }
 .title1{
    text-align:center;
   font-weight:bold;
-  font-size:30pt:
+  font-size:18px:
   font-family:微軟正黑體; 
 }
 nav{
@@ -45,10 +45,10 @@ article{
   background-color: white;
 }
 .card{
-  padding: 25px;
+  padding: 10px;
     margin: 15px 10px;
     background-size: cover;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 footer{
