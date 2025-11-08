@@ -58,7 +58,7 @@ aside{
   border-radius: 15px;
 }
 .progress-bar-container {
-  width: 50%;
+  width:100%;
   border-radius: 10px;
   /*background-color: #f3f3f3;
   overflow: hidden;*/
