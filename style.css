@@ -53,8 +53,8 @@ article{
 .progress-bar-container {
   width: 25%;
   border-radius: 10px;
-  background-color: #f3f3f3;
-  overflow: hidden;
+  /*background-color: #f3f3f3;
+  overflow: hidden;*/
   
 }
 
