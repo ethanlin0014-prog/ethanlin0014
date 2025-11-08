@@ -34,8 +34,12 @@ nav{
     text-align:center;
     font-family:微軟正黑體;
      padding: 10px;
-    background-color:#0077b6f;
+    background-color:#46A3FF; 12
     color: white; 
+}
+nav a{
+    padding: 14px 16px;
+    display: inline-block;
 }
 nav a:hover{
     background-color:#0099CC;
