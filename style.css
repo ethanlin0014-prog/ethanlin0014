@@ -64,7 +64,7 @@ border-radius: 15px;
   width: 40%;
  padding: 15px;
   margin: 12px;
-  /*background-size: cover;*/
+  background-size: cover;
   border-radius: 20px;
 
 }
@@ -73,8 +73,8 @@ border-radius: 15px;
   float: right;
   width: 56%;
   padding: 15px;
-  margin: 12px;
-  /*background-size: cover;*/
+ /* margin: 12px;*/
+  background-size: cover;
   border-radius: 20px;
  
 }
