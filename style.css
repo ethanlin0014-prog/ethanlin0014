@@ -91,14 +91,15 @@ border-radius: 15px;
   text-align: center;
   line-height: 30px;
   color: white;
-  border-radius: 5px 0 0 5px;
+  border-radius: 15px 0 0 15px;
 }
 
 footer{
   padding: 10px;
-   text-align:center;
+  text-align:center;
   background-color: #0096c7;
   color:white;
+  border-radius: 20px;
 }
 
 .clearfix{
