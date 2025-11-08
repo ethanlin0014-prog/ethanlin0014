@@ -76,10 +76,18 @@ article{
   color: white;
   border-radius: 5px 0 0 5px;
 }
-
+div{
+  float: left;
+    width: 40%;
+}
 footer{
   padding: 10px;
    text-align:center;
   background-color: #0096c7;
   color:white;
+}
+main::after{
+    content: "";
+    clear: both;
+    display: block;
 }
