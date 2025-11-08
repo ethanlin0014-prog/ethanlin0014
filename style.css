@@ -45,6 +45,7 @@ nav a:hover{
 }
 section{
   background-color: white;
+    border-radius: 25px;
 }
 
 .card{
