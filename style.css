@@ -49,16 +49,16 @@ article{
 aside{
   background-color: white;
   float: left;
-    width: 40%;
+  width: 40%;
 }
 .card{
   padding: 10px;
-    margin: 15px 10px;
-    /*background-size: cover;*/
-    border-radius: 15px;
+  /*margin: 15px 10px;*/
+  /*background-size: cover;*/
+  border-radius: 15px;
 }
 .progress-bar-container {
-  width: 40%;
+  width: 50%;
   border-radius: 10px;
   /*background-color: #f3f3f3;
   overflow: hidden;*/
