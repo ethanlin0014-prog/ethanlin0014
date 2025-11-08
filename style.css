@@ -50,7 +50,7 @@ article{
     background-size: cover;
     border-radius: 15px;
     float: right;
-    width: 25%;
+    width: 65%;
 }
 .card{
   padding: 10px;
@@ -58,7 +58,7 @@ article{
     background-size: cover;
     border-radius: 15px;
     float: left;
-    width: 73%;
+    width: 40%;
 }
 .progress-bar-container {
   width: 25%;
