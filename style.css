@@ -101,7 +101,7 @@ border-radius: 15px;
   line-height: 30px;
   color: white;
   border-radius: 15px;
-  background: linear-gradient(to right, #4caf50 76%, #ccc 76%);
+  background: linear-gradient(to right, #4caf50 50%, #ccc 50%);
 }
 
 
