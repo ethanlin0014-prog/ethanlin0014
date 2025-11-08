@@ -44,11 +44,21 @@ nav a:hover{
 article{
   background-color: white;
 }
+.card1{
+  padding: 10px;
+    margin: 15px 10px;
+    background-size: cover;
+    border-radius: 15px;
+    float: right;
+    width: 25%;
+}
 .card{
   padding: 10px;
     margin: 15px 10px;
     background-size: cover;
     border-radius: 15px;
+    float: left;
+    width: 73%;
 }
 .progress-bar-container {
   width: 25%;
