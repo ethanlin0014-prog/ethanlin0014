@@ -48,20 +48,18 @@ section{
 border-radius: 15px;
 }
 
-.lcard{
+.card{
   padding: 10px;
   margin:  15px;
   background-size: cover;
   border-radius: 25px;
-  float: left;
+}
+.left{
+ float: left;
   width: 40%;
 }
 
-.rcard{
-  padding: 10px;
-  margin:  15px;
-  background-size: cover;
-  border-radius: 25px;
+.right{
   float: right;
  width: 58%;
 }
