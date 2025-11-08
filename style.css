@@ -73,4 +73,11 @@ footer{
   background-color: #0096c7;
   color:white;
 }
-
+article{
+  float: right;
+    width: 58%;
+}
+aside{
+  float: left;
+    width: 40%;
+}
