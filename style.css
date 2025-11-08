@@ -53,6 +53,7 @@ article{
 .progress-bar-container {
   width: 25%;
   border-radius: 10px;
+  overflow: hidden;
   
 }
 
