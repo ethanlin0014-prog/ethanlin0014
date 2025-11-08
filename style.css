@@ -51,7 +51,7 @@ article{
     border-radius: 15px;
 }
 .progress-bar-container {
-  width: 100%;
+  width: 50%;
   background-color: #f3f3f3;
   border-radius: 5px;
   overflow: hidden;
