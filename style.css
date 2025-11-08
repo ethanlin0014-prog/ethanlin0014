@@ -38,7 +38,7 @@ nav{
     color: white; 
 }
 nav a{
-    padding: 15px;
+    padding: 10px;
     display: inline-block;
 }
 nav a:hover{
