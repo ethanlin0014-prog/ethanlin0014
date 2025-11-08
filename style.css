@@ -6,6 +6,7 @@ header{
   text-align:center;
   background-color:#0077b6;
   padding:12px;
+  border-radius: 20px;
 }
 body{
   background-color:#ACD6FF;
@@ -34,6 +35,7 @@ nav{
      padding: 10px;
     background-color:#84C1FF; 
     color: white; 
+    border-radius: 20px;
 }
 nav a{
     padding: 10px;
