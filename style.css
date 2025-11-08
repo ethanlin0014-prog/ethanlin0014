@@ -114,6 +114,21 @@ footer{
   border-radius: 20px;
 }
 
+  
+  .segment-a {
+    background-color: #4caf50; 
+  }
+  
+  .segment-b {
+    background-color: #f44336; 
+  }
+  .progress-bar {
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+  }
 .clearfix{
     clear: both;
 }
