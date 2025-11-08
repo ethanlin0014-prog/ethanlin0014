@@ -34,11 +34,11 @@ nav{
     text-align:center;
     font-family:微軟正黑體;
      padding: 10px;
-    background-color:#46A3FF; 12
+    background-color:#84C1FF; 12
     color: white; 
 }
 nav a{
-    padding: 14px 16px;
+    padding: 15px;
     display: inline-block;
 }
 nav a:hover{
