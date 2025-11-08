@@ -37,6 +37,7 @@ nav{
     background-color:#84C1FF; 
     color: white; 
     border-radius: 20px;
+     margin: 20px;
 }
 nav a{
     padding: 10px;
