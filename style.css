@@ -99,7 +99,7 @@ footer{
     height: 30px;
     border-radius: 20px;
     overflow: hidden;
-    /*display: flex;*/
+    display: flex;
   }
 
 .clearfix{
