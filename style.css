@@ -97,7 +97,7 @@ border-radius: 15px;
 
 .progress-bar {
   height: 30px;
-  background: linear-gradient(to right, #4caf50 70%, #F0F0F0 70%);
+  background: linear-gradient(to right, #4caf50 100%, #F0F0F0 100%);
   text-align: center;
   line-height: 30px;
   color: white;
