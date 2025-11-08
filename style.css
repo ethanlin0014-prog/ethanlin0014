@@ -60,17 +60,17 @@ border-radius: 15px;
   width: 40%;
  padding: 20px;
   margin: 20px;
-  /*background-size: cover;*/
+  background-size: cover;
   border-radius: 25px;
 
 }
 
 .right{
   float: right;
-  width: 58%;
+  width: 55%;
   padding: 20px;
-  margin: 20px;
-  /*background-size: cover;*/
+  margin: 15px;
+  background-size: cover;
   border-radius: 25px;
  
 }
