@@ -79,33 +79,6 @@ border-radius: 15px;
  
 }
 
-.progress-bar-container {
-  width:100%;
-  border-radius: 10px;
-  /*background-color: #F0F0F0;*/
-  /*overflow: hidden;*/
-  
-}
-
-/*.progress-bar {
-  height: 30px;
-  background-color: #4caf50;
-  text-align: center;
-  line-height: 30px;
-  color: white;
-  border-radius: 15px 0 0 15px;
-}*/
-
-.progress-bar {
-  height: 30px; 
-  text-align: center;
-  line-height: 30px;
-  color: white;
-  border-radius: 15px;
-  background: linear-gradient(to right, #4caf50 75%, #E0E0E0 75%);
-}
-
-
 footer{
   padding: 10px;
   text-align:center;
@@ -114,7 +87,6 @@ footer{
   border-radius: 20px;
 }
 
-  
   .segment-a {
     background-color: #4caf50 ; 
   }
@@ -127,8 +99,9 @@ footer{
     height: 30px;
     border-radius: 20px;
     overflow: hidden;
-    display: flex;
+    /*display: flex;*/
   }
+
 .clearfix{
     clear: both;
 }
