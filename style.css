@@ -58,13 +58,13 @@ border-radius: 15px;
 .left{
  float: left;
   width: 40%;
-margin: 10px;
+
 }
 
 .right{
   float: right;
  width: 58%;
-padding: 12px; 
+ 
 }
 .progress-bar-container {
   width:100%;
