@@ -48,16 +48,10 @@ nav a:hover{
     background-color:#0099CC;
     color: white;
 }
-article{
+section{
   background-color: white;
-  float: right;
-   width:57%;
 }
-aside{
-  background-color: white;
-  float: left;
-  width: 40%;
-}
+
 .card{
   padding: 10px;
   margin:  10px;
