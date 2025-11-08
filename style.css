@@ -89,7 +89,7 @@ footer{
 
   .segment-a {
     background-color: #4caf50 ; 
-    text-align:center;
+    
   }
   
   .segment-b {
@@ -101,6 +101,7 @@ footer{
     border-radius: 20px;
     overflow: hidden;
     display: flex;
+    text-align:center;
   }
 
 .clearfix{
