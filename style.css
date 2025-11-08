@@ -76,8 +76,9 @@ border-radius: 15px;
   margin: 12px;
   background-size: cover;
   border-radius: 20px;
+position: absolute;
   right:12px;    
-  top: 900px;
+  top: 1050px;
 }
 .right1{
   float: right;
