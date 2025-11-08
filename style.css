@@ -83,8 +83,4 @@ footer{
   background-color: #0096c7;
   color:white;
 }
-main::after{
-    content: "";
-    clear: both;
-    display: block;
-}
+
