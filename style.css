@@ -99,7 +99,7 @@ footer{
   color:white;
   border-radius: 20px;
     position:fix; 
-    top:10000px; 
+    bottom:0px; 
     right:12px;
 }
 
