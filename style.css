@@ -46,6 +46,11 @@ article{
   float: right;
    width:60%;
 }
+aside{
+  background-color: white;
+  float: left;
+    width: 40%;
+}
 .card{
   padding: 10px;
     margin: 15px 10px;
@@ -75,8 +80,7 @@ footer{
   background-color: #0096c7;
   color:white;
 }
-aside{
-  background-color: white;
-  float: left;
-    width: 40%;
+
+.clearfix{
+    clear: both;
 }
