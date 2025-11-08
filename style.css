@@ -43,6 +43,8 @@ nav a:hover{
 }
 article{
   background-color: white;
+  float: right;
+   width: 58%;
 }
 .card{
   padding: 10px;
@@ -73,11 +75,8 @@ footer{
   background-color: #0096c7;
   color:white;
 }
-article{
-  float: right;
-    width: 58%;
-}
 aside{
+  background-color: white;
   float: left;
     width: 40%;
 }
