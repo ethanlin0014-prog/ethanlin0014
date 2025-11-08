@@ -78,7 +78,7 @@ border-radius: 15px;
   border-radius: 20px;
 position: absolute;
   right:12px;    
-  top: 1000px;
+  top: 1025px;
 }
 .right1{
   float: right;
@@ -98,7 +98,7 @@ footer{
   background-color: #0096c7;
   color:white;
   border-radius: 20px;
-position:  absolute;    
+position:fix;    
     top:1300px;  
 }
 
