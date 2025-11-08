@@ -76,7 +76,7 @@ border-radius: 15px;
   margin: 12px;
   background-size: cover;
   border-radius: 20px;
- 
+ vertical-align: top; 
 }
 
 footer{
