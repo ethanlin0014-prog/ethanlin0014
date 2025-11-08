@@ -98,7 +98,7 @@ footer{
   background-color: #0096c7;
   color:white;
   border-radius: 20px;
-position:absolute; 
+    position:fix; 
     top:3200px; 
     right:12px;
 }
