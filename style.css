@@ -61,7 +61,7 @@ border-radius: 15px;
 }
 .left{
  float: left;
-  width: 47.5%;
+  width: 49%;
  padding: 15px;
   margin: 12px;
   background-size: cover;
@@ -71,7 +71,7 @@ border-radius: 15px;
 
 .right{
   float: right;
-  width:47.5%;
+  width:49%;
   padding: 15px;
   margin: 12px;
   background-size: cover;
