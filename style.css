@@ -61,11 +61,11 @@ border-radius: 15px;
 }
 .left{
  float: left;
-  width: 35%;
+  width: 40%;
  padding: 15px;
-  margin: 20px;
+  margin: 12px;
   background-size: cover;
-  border-radius: 25px;
+  border-radius: 20px;
 
 }
 
@@ -75,7 +75,7 @@ border-radius: 15px;
   padding: 15px;
   margin: 12px;
   background-size: cover;
-  border-radius: 25px;
+  border-radius: 20px;
  
 }
 .progress-bar-container {
