@@ -22,7 +22,7 @@ body{
 .title{
    text-align:center;
   font-size:24px;
-  font-family:微軟正黑體; 
+  font-family: "Crete Round", serif;
 }
 .title1{
    text-align:center;
@@ -135,4 +135,16 @@ p{
   font-weight: <weight>;
   font-style: normal;
 }
+.crete-round-regular {
+  font-family: "Crete Round", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*.crete-round-regular-italic {
+  font-family: "Crete Round", serif;
+  font-weight: 400;
+  font-style: italic;*/
+}
+
 
