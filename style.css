@@ -43,7 +43,7 @@ nav{
      margin: 20px;
 }
 nav a{
-    padding: 10px;
+    padding:3px;
     display: inline-block;
 }
 nav a:hover{
