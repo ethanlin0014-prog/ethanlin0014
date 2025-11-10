@@ -120,3 +120,8 @@ footer{
   font-weight: 400;
   font-style: normal;
 }
+.image{
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+}
