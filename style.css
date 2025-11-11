@@ -131,3 +131,7 @@ footer{
       height: auto;
     border-radius: 10%;
     }
+.wrapper {
+  width: 100%;
+  overflow: hidden; /* 清除浮動影響 */
+}
