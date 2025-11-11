@@ -62,9 +62,6 @@ border-radius: 15px;
   /*margin: 20px;*/
   background-size: cover;
   border-radius: 25px;
-  float: left; /* 圖片靠左 */
-  margin: 0 15px 15px 0; /* 圖片與文字間距 */
-  width: 200px;
     }
 
 .left{
