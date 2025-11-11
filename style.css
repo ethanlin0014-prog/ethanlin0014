@@ -101,9 +101,9 @@ footer{
   background-color: #0096c7;
   color:white;
   border-radius: 20px;
-    position:absolute;
+    position:fix;
     top: 1075px; 
-    right:12px;*/
+    right:12px;
 }
 
 .progress-bar {
