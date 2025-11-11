@@ -46,6 +46,7 @@ nav{
 nav a{
     padding:15px;
     display: inline-block;
+    border-radius: 20px;
 }
 nav a:hover{
     background-color:#0099CC;
