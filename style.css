@@ -68,6 +68,7 @@ border-radius: 15px;
   width: 47.5%;
  padding: 10px;
   margin: 12px;
+ display: flex;
   /*background-size: cover;*/
   /*border-radius: 20px;*/
 
@@ -78,6 +79,7 @@ border-radius: 15px;
   width:47.5%;
   padding: 10px;
   margin: 12px;
+ display: flex;
   /*background-size: cover;
   border-radius: 20px;*/
 /*position: absolute;
