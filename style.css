@@ -101,8 +101,8 @@ footer{
   background-color: #0096c7;
   color:white;
   border-radius: 20px;
-    position:relative; 
-    top: 975px; 
+    position:absolute;
+    top: 1075px; 
     right:12px;*/
 }
 
