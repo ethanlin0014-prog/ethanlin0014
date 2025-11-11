@@ -80,9 +80,9 @@ border-radius: 15px;
   margin: 12px;
   background-size: cover;
   border-radius: 20px;
-/*position: absolute;
+position: absolute;
   right:12px;    
-  top: 825px;*/
+  top: 825px;
 }
 .right1{
   float: right;
@@ -91,9 +91,9 @@ border-radius: 15px;
   margin: 12px;
   background-size: cover;
   border-radius: 20px;
-/*position: absolute;
+position: absolute;
   right:12px;    
-  top: 1025px;*/
+  top: 1025px;
 }
 footer{
   padding: 10px;
