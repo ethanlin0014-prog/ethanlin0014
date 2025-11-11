@@ -102,7 +102,7 @@ footer{
   color:white;
   border-radius: 20px;
     position:fix;
-    top: 2600px; 
+    bottom: 1px; 
     right:12px;
 }
 
