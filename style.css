@@ -4,44 +4,44 @@
 header{
   color:white;
   text-align:center;
+  font-family: "LXGW WenKai Mono TC", monospace;
   background-color:#0077b6;
   border-radius: 15px;
-  margin: 20px;
-    padding:3px;
- font-family: "LXGW WenKai Mono TC", monospace;
+  margin: 15px;
+  padding:3px;
 }
 body{
   background-color:#ACD6FF;
 }
 .slogan{
    text-align:center;
-  text-decoration:underline;
+   text-decoration:underline;
    font-weight:bold;
-  font-style:italic;
+   font-style:italic;
    font-family:微軟正黑體;
-    font-size:20px;
+   font-size:20px;
 }
 .title{
    text-align:center;
-    font-weight:bold;
-  font-size:20px;
-  font-family: "Crete Round", serif;
+   font-weight:bold;
+   font-family: "Crete Round", serif;
+   font-size:20px;
 }
 .title1{
    text-align:center;
-  font-weight:bold;
-  font-size:18px;
-  font-family: "Crete Round", serif;
+   font-weight:bold;
+   font-family: "Crete Round", serif;
+   font-size:17px;  
 }
 nav{
+    color: white; 
     text-align:center;
+    background-color:#84C1FF; 
     font-family: "Bree Serif", serif;
     font-size:28px
-     padding: 15px;
-    background-color:#84C1FF; 
-    color: white; 
+    padding: 15px;
     border-radius: 20px;
-     margin: 20px;
+    margin: 15px;
 }
 nav a{
     padding:15px;
@@ -52,94 +52,93 @@ nav a:hover{
     color: white;
 }
 section{
-  background-color: white;
-border-radius: 15px;
- padding: 10px; 
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px; 
 }
 
 .card{
-  padding: 20px;
-  /*margin: 20px;*/
-  background-size: cover;
-  border-radius: 25px;
-    }
+    padding: 20px;
+    margin: 20px;
+    background-size: cover;
+    border-radius: 25px;
+}
 
 .left{
- float: left;
-  width: 47.5%;
- padding: 10px;
-  margin: 12px;
-  background-size: cover;
-  border-radius: 20px;
-
+    float: left;
+    width: 47.5%;
+    padding: 10px;
+    margin: 12px;
+    background-size: cover;
+    border-radius: 20px;
 }
 
 .right{
-  float: right;
-  width:47.5%;
-  padding: 10px;
-  margin: 12px;
-  background-size: cover;
-  border-radius: 20px;
-position: absolute;
-  right:12px;    
-  top: 720px;
+   float: right;
+   width:47.5%;
+   padding: 10px;
+   margin: 12px;
+   background-size: cover;
+   border-radius: 20px;
+   position: absolute;
+   right:12px;    
+   top: 720px;
 }
 .right1{
-  float: right;
-  width:47.5%;
-  padding: 10px;
-  margin: 12px;
-  background-size: cover;
-  border-radius: 20px;
-position: absolute;
-  right:12px;    
-  top: 900px;
+   float: right;
+   width:47.5%;
+   padding: 10px;
+   margin: 12px;
+   background-size: cover;
+   border-radius: 20px;
+   position: absolute;
+   right:12px;    
+   top: 900px;
 }
 footer{
-  padding: 10px;
-  text-align:center;
-  background-color: #0096c7;
-  color:white;
-  border-radius: 20px;
-  position:relative;
- top: 625px; 
-  right:15px;
+   padding: 10px;
+   text-align:center;
+   background-color: #0096c7;
+   color:white;
+   border-radius: 20px;
+   position:relative;
+   top: 625px; 
+   right:15px;
 }
 
-.progress-bar {
+.progress-bar{
     width: 100%;
     height: 30px;
     border-radius: 25px;
     overflow: hidden;
     display: flex;
-  }
-  .segment-a {
-    background-color: #4caf50 ; 
+}
+.segment-a{
+    background-color: #4caf50; 
     text-align:center;
     font-family: "LXGW WenKai Mono TC", monospace;
     font-size:18px;
-  }
-  .segment-b {
+}
+  .segment-b{
     background-color: #E0E0E0 ; 
-  }
+}
 
 .clearfix{
     clear: both;
 }
-.font {
-  font-family: "LXGW WenKai Mono TC", monospace;
-  font-weight: 400;
-  font-style: normal;
-  font-size:18px;
+.font{
+    font-family:"LXGW WenKai Mono TC", monospace;
+    font-weight:400;
+    font-style: normal;
+    font-size:18px;
 }
- .image-container {
-      text-align: center;
-    }
-.image-container img {
-      display: inline-block;
-      margin: 0 10px;
-      width: 120px;
-      height: auto;
+.image-container{
+    text-align: center;
+}
+.image-container img{
+    display: inline-block;
+    margin: 0 10px;
+    width: 120px;
+    height: auto;
     border-radius: 10%;
-    }
+}
