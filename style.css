@@ -103,8 +103,8 @@ footer{
    background-color: #0096c7;
    color:white;
    border-radius: 20px;
-   position:relative;
-   top: 450px; 
+   position:absoulte;
+   top: 950px; 
    right:6px;
 }
 
