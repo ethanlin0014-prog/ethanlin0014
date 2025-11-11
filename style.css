@@ -59,7 +59,7 @@ border-radius: 15px;
 
 .card{
   padding: 20px;
-  margin: 20px;
+  /*margin: 20px;*/
   background-size: cover;
   border-radius: 25px;
   float: left; /* 圖片靠左 */
