@@ -84,15 +84,7 @@ border-radius: 15px;
   right:12px;    
   top: 1025px;*/
 }
-.container {
-  display: flex;              /* 讓內容橫向排列 */
-  justify-content: space-between; /* 左右分開 */
-  align-items: flex-start;    /* 頂端對齊 */
-  gap: 20px;                  /* 區塊之間的間距 */
-}
 
-
- 
 footer{
   padding: 10px;
   text-align:center;
