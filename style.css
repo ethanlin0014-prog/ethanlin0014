@@ -82,9 +82,9 @@ section{
    margin: 12px;
    background-size: cover;
    border-radius: 20px;
-   position: absolute;
+   /*position: absolute;
    right:12px;    
-   top: 720px;
+   top: 720px;*/
 }
 .right1{
    float: right;
@@ -93,9 +93,9 @@ section{
    margin: 12px;
    background-size: cover;
    border-radius: 20px;
-   position: absolute;
+   /*position: absolute;
    right:12px;    
-   top: 900px;
+   top: 900px;*/
 }
 footer{
    padding: 10px;
@@ -103,9 +103,9 @@ footer{
    background-color: #0096c7;
    color:white;
    border-radius: 20px;
-   position:relative;
+   /*position:relative;
    top: 100px; 
-   right:6px;
+   right:6px;*/
 }
 
 .progress-bar{
