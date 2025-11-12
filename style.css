@@ -76,7 +76,7 @@ section{
 }
 
 .right{
-   float: right;
+   float: left;
    width:47.5%;
    padding: 10px;
    margin: 12px;
