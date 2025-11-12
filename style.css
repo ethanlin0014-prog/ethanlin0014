@@ -67,7 +67,7 @@ section{
 }
 
 .left{
-    
+    float:left;
     width: 47.5%;
     padding: 10px;
     margin: 12px;
@@ -76,6 +76,7 @@ section{
 }
 
 .right{
+    float:right;
    width:47.5%;
    padding: 10px;
    margin: 12px;
