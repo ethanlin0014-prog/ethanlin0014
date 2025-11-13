@@ -6,20 +6,20 @@ header{
   text-align:center;
   font-family: "LXGW WenKai Mono TC", monospace;
   background-color:#0077b6;
-  border-radius: 15px;
-  margin: 15px;
+  border-radius: 20px;
+  margin: 20px;
   padding:3px;
 }
 body{
   background-color:#ACD6FF;
 }
 .slogan{
-   text-align:center;
+   text-align:left;
    text-decoration:underline;
    font-weight:bold;
    font-style:italic;
    font-family:微軟正黑體;
-   font-size:20px;
+   font-size:16px;
 }
 .title{
    text-align:center;
@@ -40,8 +40,9 @@ nav{
     font-family: "Bree Serif", serif;
     font-size:20px;
     padding: 3px;
-    border-radius: 15px;
-    margin: 15px;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: 35px;
 }
 nav a{
     padding:15px;
@@ -53,59 +54,41 @@ nav a:hover{
     color: white;
 }
 section{
-    background-color: white;
     border-radius: 15px;
-    padding: 10px; 
+    padding: 10px;
 }
 
 .card{
     padding: 20px;
-    margin: 20px;
+    margin: 15px;
+    margin-bottom: 35px;
     background-size: cover;
     border-radius: 25px;
-    background-color:#FCFCFC;
+    background-color:#ebebeb;
 }
 
 .left{
     float:left;
-    width: 47.5%;
+    width: 49.5%;
     padding: 10px;
-    margin: 12px;
-    background-size: cover;
     border-radius: 20px;
 }
 
 .right{
-    float:right;
-   width:47.5%;
+   float:right;
+   width:50%;
    padding: 10px;
-   margin: 12px;
-   background-size: cover;
    border-radius: 20px;
-   /*position: absolute;
-   right:12px;    
-   top: 720px;*/
 }
-.right1{
-   float: right;
-   width:47.5%;
-   padding: 10px;
-   margin: 12px;
-   background-size: cover;
-   border-radius: 20px;
-   /*position: absolute;
-   right:12px;    
-   top: 900px;*/
-}
+
 footer{
-   padding: 10px;
+   padding: 15px;
    text-align:center;
    background-color: #0096c7;
    color:white;
    border-radius: 20px;
-   /*position:relative;
-   top: 100px; 
-   right:6px;*/
+   margin: 20px;
+   margin-top: -10px;
 }
 
 .progress-bar{
@@ -115,6 +98,7 @@ footer{
     overflow: hidden;
     display: flex;
 }
+
 .segment-a{
     background-color: #4caf50; 
     text-align:center;
@@ -140,10 +124,32 @@ footer{
 .image-container img{
     display: inline-block;
     margin: 0 10px;
-    width: 120px;
+    width: 125px;
     height: auto;
     border-radius: 10%;
 }
 .center{
     float:left;
 }
+
+.container {
+    display: flex;                 
+    align-items: center;           
+    justify-content: center;      
+    gap: 40px;                   
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 35px;
+    background-size: cover;
+    border-radius: 25px;
+    background-color:#ebebeb;
+  }
+
+  .photo img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;            
+    object-fit: cover;            
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
