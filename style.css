@@ -1,18 +1,21 @@
 *{
     box-sizing: border-box;
 }
+
 header{
-  color:white;
+  color:white; 
   text-align:center;
   font-family: "LXGW WenKai Mono TC", monospace;
   background-color:#0077b6;
   border-radius: 20px;
-  margin: 20px;
+  margin:0px 20px;
   padding:3px;
 }
+
 body{
   background-color:#ACD6FF;
 }
+
 .slogan{
    text-align:left;
    text-decoration:underline;
@@ -21,20 +24,30 @@ body{
    font-family:微軟正黑體;
    font-size:16px;
 }
+
 .title{
    text-align:center;
    font-weight:bold;
-   font-family: "Short Stack", cursive;
+   font-family:  "Short Stack", cursive;
    font-size:25px;
 }
+
 .title1{
    text-align:center;
    font-weight:bold;
-   font-family: "Crete Round", serif;
-   font-size:20px;  
+   font-family: "Edu VIC WA NT Beginner", cursive;
+   font-size:20.5px;  
 }
+
+.font{
+    font-family:"LXGW WenKai Mono TC", monospace;
+    font-weight:400;
+    font-style: normal;
+    font-size:18px;
+}
+
 nav{
-    color: white; 
+    color:white; 
     text-align:center;
     background-color:#84C1FF; 
     font-family: "Bree Serif", serif;
@@ -44,15 +57,18 @@ nav{
     margin: 20px;
     margin-top: 35px;
 }
+
 nav a{
     padding:15px;
     display: inline-block;
     border-radius: 20px;
 }
+
 nav a:hover{
     background-color:#0099CC;
-    color: white;
+    color:white;
 }
+
 section{
     border-radius: 15px;
     padding: 10px;
@@ -69,75 +85,60 @@ section{
 
 .left{
     float:left;
-    width: 49.5%;
-    padding: 10px;
-    border-radius: 20px;
+    width:50%;
+    padding:10px;
+    border-radius:20px;
 }
 
 .right{
    float:right;
    width:50%;
-   padding: 10px;
-   border-radius: 20px;
-}
-
-footer{
-   padding: 15px;
-   text-align:center;
-   background-color: #0096c7;
-   color:white;
-   border-radius: 20px;
-   margin: 20px;
-   margin-top: -10px;
+   padding:10px;
+   border-radius:20px;
 }
 
 .progress-bar{
-    width: 100%;
-    height: 30px;
-    border-radius: 25px;
-    overflow: hidden;
-    display: flex;
+    width:100%;
+    height:30px;
+    border-radius:25px;
+    overflow:hidden;
+    display:flex;
 }
 
 .segment-a{
-    background-color: #4caf50; 
+    background-color:#4caf50; 
     text-align:center;
     font-family: "LXGW WenKai Mono TC", monospace;
     font-size:18px;
+    animation: bar 2s ease-in-out forwards;
 }
-  .segment-b{
+
+@keyframes bar{
+    from {width:0;}
+    to {width:var(--target-width);}
+}
+
+.segment-b{
     background-color: #E0E0E0 ; 
 }
 
-.clearfix{
-    clear: both;
-}
-.font{
-    font-family:"LXGW WenKai Mono TC", monospace;
-    font-weight:400;
-    font-style: normal;
-    font-size:18px;
-}
 .image-container{
     text-align: center;
 }
+
 .image-container img{
     display: inline-block;
     margin: 0 10px;
     width: 125px;
     height: auto;
-    border-radius: 10%;
-}
-.center{
-    float:left;
+    border-radius:20%;
 }
 
-.container {
+.container{
     display: flex;                 
     align-items: center;           
     justify-content: center;      
     gap: 40px;                   
-    background-color: white;
     padding: 20px;
     margin: 20px;
     margin-top: 35px;
@@ -146,10 +147,24 @@ footer{
     background-color:#ebebeb;
   }
 
-  .photo img {
+  .photo img{
     width: 220px;
     height: 220px;
     border-radius: 50%;            
     object-fit: cover;            
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-  }
+ }
+
+.clearfix{
+    clear: both;
+}
+
+footer{
+    padding: 15px;
+    text-align:center;
+    background-color: #0096c7;
+    color:white;
+    border-radius: 20px;
+    margin: 20px 20px 0px;
+    margin-top: -10px;
+}
